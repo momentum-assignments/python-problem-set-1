@@ -71,7 +71,7 @@
 # 10 and 25 is 5.
 #
 # One method of calculating the greatest common divisor is the "binary GCD algorithm."
-# (https:#en.wikipedia.org/wiki/Greatest_common_divisor#Binary_GCD_algorithm)
+# (https://en.wikipedia.org/wiki/Greatest_common_divisor#Binary_GCD_algorithm)
 # It can be written out like the following:
 #
 # Input: a, b positive integers
